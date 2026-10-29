@@ -24,6 +24,6 @@ The installer is not code-signed yet, so Windows SmartScreen may ask you to conf
 
 From 2.0.0 on, Trebell Code checks this repository for new releases, and its Settings offer the update once one is out.
 
-## License
+## Third-party notices
 
-Trebell Code is licensed under the Apache License 2.0 ([LICENSE](LICENSE), [NOTICE](NOTICE)). The notices of the third-party software it includes ship inside the app.
+The notices of the third-party software Trebell Code includes ship inside the app.
