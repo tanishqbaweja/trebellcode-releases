@@ -4,21 +4,27 @@ Trebell Code is a coding harness built for verified software-engineering quality
 
 This repository holds Trebell Code's released builds. Download them from [Releases](https://github.com/tanishqbaweja/trebellcode-releases/releases).
 
-## Trebell Code 2.0.0
+## Trebell Code 2.0.1
 
 | File | For |
 | --- | --- |
-| `Trebell-Code-Setup-2.0.0.exe` | Windows 10 and 11, x64: the installer |
-| `latest.yml`, `Trebell-Code-Setup-2.0.0.exe.blockmap` | The app's own updater |
+| `Trebell-Code-Setup-2.0.1.exe` | Windows 10 and 11, x64: the installer |
+| `latest.yml`, `Trebell-Code-Setup-2.0.1.exe.blockmap` | The app's own updater |
 | `release.json` | The installer's size, SHA-256 and the commit it was built from |
 
-SHA-256 of `Trebell-Code-Setup-2.0.0.exe`:
+SHA-256 of `Trebell-Code-Setup-2.0.1.exe`:
 
 ```text
-7c49b43241d90e9a3bb7ab64d9b3a32dec77991fa43675f71b6445fa7ddbf1b7
+49bc57d0326fa21a5c56259e178b2ec97f718e80b18221f59c41cb6b6ac77fe0
 ```
 
 The installer is not code-signed yet, so Windows SmartScreen may ask you to confirm it before it runs ("More info", then "Run anyway").
+
+## Earlier releases
+
+| Release | SHA-256 of its installer |
+| --- | --- |
+| 2.0.0 | `7c49b43241d90e9a3bb7ab64d9b3a32dec77991fa43675f71b6445fa7ddbf1b7` |
 
 ## Updates
 
