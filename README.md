@@ -4,18 +4,18 @@ Trebell Code is a coding harness built for verified software-engineering quality
 
 This repository holds Trebell Code's released builds. Download them from [Releases](https://github.com/tanishqbaweja/trebellcode-releases/releases).
 
-## Trebell Code 2.1.4
+## Trebell Code 2.1.5
 
 | File | For |
 | --- | --- |
-| `Trebell-Code-Setup-2.1.4.exe` | Windows 10 and 11, x64: the installer |
-| `latest.yml`, `Trebell-Code-Setup-2.1.4.exe.blockmap` | The app's own updater |
+| `Trebell-Code-Setup-2.1.5.exe` | Windows 10 and 11, x64: the installer |
+| `latest.yml`, `Trebell-Code-Setup-2.1.5.exe.blockmap` | The app's own updater |
 | `release.json` | The installer's size, SHA-256 and the commit it was built from |
 
-SHA-256 of `Trebell-Code-Setup-2.1.4.exe`:
+SHA-256 of `Trebell-Code-Setup-2.1.5.exe`:
 
 ```text
-979b34f6b9133a64861927cad94adcbb6dba99ce142d5ed32ce20b6b66c961a9
+3ba5c6b0a94223f8c14e54b2481aa8f460cc3c22b10eff82c4aaa2b1e1e484af
 ```
 
 The installer is not code-signed yet, so Windows SmartScreen may ask you to confirm it before it runs ("More info", then "Run anyway").
@@ -24,6 +24,7 @@ The installer is not code-signed yet, so Windows SmartScreen may ask you to conf
 
 | Release | SHA-256 of its installer |
 | --- | --- |
+| 2.1.4 | `979b34f6b9133a64861927cad94adcbb6dba99ce142d5ed32ce20b6b66c961a9` |
 | 2.1.3 | `f81298eb8fe789aa1e8877414938c08821c2ebd2bec20a69df343c8a553c0a43` |
 | 2.1.2 | `1542bf57035b9761462013d06212b9a5b1a3e00cc6195c3326dc06e05045ad35` |
 | 2.1.1 | `40963dc98ca13dea65ef22326d5c73f16346bd22aea45adca44aab19766cdccd` |
